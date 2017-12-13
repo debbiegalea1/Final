@@ -1,0 +1,19 @@
+body {
+	font-family: futura;
+	width: 400px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+#selectOptions {
+	margin-left: 100px;
+}
+.result {
+	font-family: futura;
+	color: #001F3F;
+	margin-bottom: 20px;
+	background-color: #E3F2FD;
+}
+.result h1 {
+	background-color: #777;
+	color: white;
+}
